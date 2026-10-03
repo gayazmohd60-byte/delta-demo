@@ -5,4 +5,4 @@ This is a Demo Git &amp; Github class.
 shradha khapra
 
 # student
-Delta student
+AIML Prime student
